@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TenTechDeepDiveApi", "TenTechDeepDiveApi\TenTechDeepDiveApi.csproj", "{08B3BB79-ADC8-4347-833C-3C758DBEAC86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08B3BB79-ADC8-4347-833C-3C758DBEAC86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08B3BB79-ADC8-4347-833C-3C758DBEAC86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08B3BB79-ADC8-4347-833C-3C758DBEAC86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08B3BB79-ADC8-4347-833C-3C758DBEAC86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50C872B1-AE32-4777-93F7-87C7C58E3E05}
+	EndGlobalSection
+EndGlobal
