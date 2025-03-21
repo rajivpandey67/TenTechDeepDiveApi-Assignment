@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TenTechDeepDiveApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d612b55c517ae246895ff16bcc3dfb1a8d2ab5cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("TenTechDeepDiveApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TenTechDeepDiveApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
