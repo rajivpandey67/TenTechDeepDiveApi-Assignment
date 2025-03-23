@@ -1,6 +1,7 @@
 
 using Microsoft.EntityFrameworkCore;
 using TenTechDeepDiveApi.Data;
+using TenTechDeepDiveApi.Services;
 
 namespace TenTechDeepDiveApi
 {
@@ -18,6 +19,7 @@ namespace TenTechDeepDiveApi
             builder.Services.AddSwaggerGen();
             builder.Services.AddDbContext<ApplicationDbContext>(options =>
             options.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection")));
+            builder.Services.AddScoped<CsvDataService>();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
